@@ -1,0 +1,10 @@
+package cap01;
+public class Atividade {
+
+    public static void main(String[] args) {
+        System.out.println("java 8");
+        System.out.println("Ensino Didático");
+        System.out.println("Luiz Ricardo");
+        }
+    }
+
