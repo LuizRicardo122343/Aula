@@ -7,4 +7,3 @@ public class Atividade {
         System.out.println("Luiz Ricardo");
         }
     }
-
